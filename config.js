@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6285880473884', '6285882913254','6285882912154', '6285880473884', '6285880473884'] // Letakan nomor kamu disini
+global.owner = ['6281327295445'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
